@@ -70,8 +70,8 @@
                 position: absolute;
                 width: 20px;
                 height: 20px;
-                background-color: #0f3;
-                box-shadow: 0 0 0 8px #0f03, 0 0 0 15px #0f01;
+                background-color: #7b8b6f;
+                box-shadow: 0 0 0 8px #965454, 0 0 0 15px #8696a7;
                 animation: animateSquare 4s linear infinite;
             }
 
