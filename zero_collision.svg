@@ -52,18 +52,15 @@
             }
 
             .container .square:nth-child(1) {
-                background-color: #ff0000; /* 修改为红色 */
             }
 
             .container .square:nth-child(2) {
-                background-color: #00ff00; /* 修改为绿色 */
                 transform: translate(-25%, -25%) rotateX(180deg);
                 filter: hue-rotate(60deg);
             }
 
 
             .container .square:nth-child(3) {
-                background-color: #0000ff; /* 修改为蓝色 */
                 transform: translate(25%, 25%) rotateX(180deg);
                 filter: hue-rotate(180deg);
             }
