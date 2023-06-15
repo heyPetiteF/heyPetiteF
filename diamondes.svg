@@ -47,15 +47,15 @@
 
             .container .square {
                 position: absolute;
-                width: 200px;
-                height: 200px;
+                width: 400px;
+                height: 400px;
             }
 
             .container .square:nth-child(1) {
             }
 
             .container .square:nth-child(2) {
-                transform: translate(-25%, -25%) rotateX(180deg);
+                transform: translate(-25%, -25%) rotateX(90deg);
                 filter: hue-rotate(60deg);
             }
 
