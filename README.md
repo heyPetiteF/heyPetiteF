@@ -1,1 +1,1 @@
-[![Zero Collision](zero_collision.svg)]()
+[![diamondes](diamondes.svg)]()
