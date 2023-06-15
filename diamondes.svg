@@ -70,7 +70,7 @@
                 position: absolute;
                 width: 20px;
                 height: 20px;
-                background-color: #0f0;
+                background-color: #0f3;
                 box-shadow: 0 0 0 8px #0f03, 0 0 0 15px #0f01;
                 animation: animateSquare 4s linear infinite;
             }
